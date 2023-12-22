@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-24-restful-api",
+  "version": "1.0.0",
+  "description": "pratice restful api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeban0608/nodejs-24-restful-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "restful"
+  ],
+  "author": "joeban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeban0608/nodejs-24-restful-api/issues"
+  },
+  "homepage": "https://github.com/joeban0608/nodejs-24-restful-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
